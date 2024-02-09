@@ -4,5 +4,6 @@ const sum = () => {
 }
 
 const sub = () => {
+    console.log(['checking2...']);
     return 20 - 10; 
 }
